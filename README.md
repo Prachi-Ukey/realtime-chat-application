@@ -117,10 +117,10 @@ npm run dev
 ## 📸 Screenshots
 
 ### Login Page
-![Login](realtime-chat-app\screenshots/login.png)
+![Login](screenshots/login.png)
 
 ### Register Page
-![Reguister](screenshots/signup.png)
+![Register](screenshots/register.png)
 
 ### home Interface
 ![Home](screenshots/home.png)
