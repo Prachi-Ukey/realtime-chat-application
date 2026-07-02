@@ -117,7 +117,7 @@ npm run dev
 ## 📸 Screenshots
 
 ### Login Page
-![Login](screenshots/login.png)
+![Login](realtime-chat-app\screenshots/login.png)
 
 ### Register Page
 ![Reguister](screenshots/signup.png)
